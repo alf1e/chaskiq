@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/11976/81771025-eaefe780-94af-11ea-881b-ad7910536fee.png)
 
-# Chaskiq 
+# Chaskiq (Arm Editon)
 ## Open Source Messaging Platform for Marketing, Support & Sales
 ### The front line of your customer service.
 
