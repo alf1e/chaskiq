@@ -60,5 +60,5 @@ jobs:
             "BUNDLER_VERSION=2.3.15"
           push: true
           tags: ${{ steps.meta.outputs.tags }}
-          platforms: linux/arm/v8
+          platforms: linux/arm64
           labels: ${{ steps.meta.outputs.labels }}
